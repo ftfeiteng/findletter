@@ -9,7 +9,7 @@ import static org.junit.Assert.assertEquals;
 import com.example.main.LetterFinder;
 import com.example.main.Main;
 
-class TestMain {
+class TestLetterFinder {
 
 	@Test
 	void test() {
