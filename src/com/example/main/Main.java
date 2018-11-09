@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("Input your text");
+		System.out.println("Locate letter 'a'\nInput your text:");
 
 		BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 		String text = null;
